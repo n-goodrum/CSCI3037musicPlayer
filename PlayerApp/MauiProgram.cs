@@ -2,6 +2,7 @@
 
 namespace PlayerApp;
 //comment
+//another comment
 public static class MauiProgram
 {
 	public static MauiApp CreateMauiApp()
